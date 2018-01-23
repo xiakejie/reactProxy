@@ -19,15 +19,14 @@ export default class PcNewsBlock extends React.Component {
     };
   }
   componentWillMount() {
-    var request = new Request ('http://v.juhe.cn/toutiao/index?type=top&key=6a9e83c124b6661f02bcefcd3dc1e170',
+    var request = new Request ('/toutiao/index?type=top&key=6a9e83c124b6661f02bcefcd3dc1e170',
     {
       method: 'GET',
       mode: 'cors',
       credentials: 'include',
       redirect: 'follow',
       headers: new Headers({
-          "Origin": 'http://localhost:8080',
-          'Content-Type': 'text/plain',
+        'Content-Type': 'text/plain',
       })
     });
     fetch(request).then(response => response.json())

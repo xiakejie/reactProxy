@@ -36,12 +36,11 @@ module.exports = {
     filename: 'bundle.js'
   },
   devServer: {
-    proxy: [
-      {
-        context: '/toutiao/*',
+    proxy: [{
+        context: ["/toutiao/**", "/api/**","**"],
         target: 'http://v.juhe.cn',
+        changeOrigin: true,
         secure: false
-      }
-    ]
+    }]
    }
 };
