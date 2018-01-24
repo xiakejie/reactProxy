@@ -37,8 +37,8 @@ module.exports = {
   },
   devServer: {
     proxy: [{
-        context: ["/toutiao/**", "/api/**","**"],
-        target: 'http://v.juhe.cn',
+        context: ["/api/**","**"],
+        target: 'https://api.meituan.com',
         changeOrigin: true,
         secure: false
     }]

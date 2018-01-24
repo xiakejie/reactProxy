@@ -1,0 +1,82 @@
+{
+    "stid": "036080739684176109157139058381894501228",
+    "data": [
+        {
+            "typeface_color": "#ff9900",
+            "position": 0,
+            "module": false,
+            "maintitle": "9.9剪发",
+            "type": 1,
+            "deputytitle": "真的超实惠",
+            "solds": 0,
+            "id": 26924,
+            "share": {
+                "message": "低价轻松变美，快来一起抢",
+                "url": "https://g.meituan.com/av/rainbow/1357827/index.html?utm_source=rb"
+            },
+            "title": "9.9剪发",
+            "deputy_typeface_color": "#21c0ae",
+            "tplurl": "imeituan://www.meituan.com/web?url=https://g.meituan.com/av/rainbow/1357827/index.html?utm_source=rb",
+            "imageurl": "http://p1.meituan.net/w.h/feop/ef6701b9911e183542e99ad39952663910820.png"
+        },
+        {
+            "typeface_color": "#f6687d",
+            "position": 0,
+            "module": false,
+            "maintitle": "票房黑马",
+            "type": 1,
+            "deputytitle": "9.9起抢",
+            "solds": 0,
+            "id": 26985,
+            "share": {
+                "message": "热映大片低至9.9起！",
+                "url": "http://i.meituan.com/firework/qi1516173006"
+            },
+            "title": "票房黑马",
+            "deputy_typeface_color": "#c280fc",
+            "tplurl": "imeituan://www.meituan.com/web?url=http://i.meituan.com/firework/qi1516173006",
+            "imageurl": "http://p0.meituan.net/w.h/feop/bb9eaa581dea22b3c633f75ffa67010a26481.png"
+        },
+        {
+            "typeface_color": "#6bbd00",
+            "position": 0,
+            "monitorImpUrl": "",
+            "module": false,
+            "impUrl": "https://mlog.dianping.com/mtlog?sver=2&ad_ci=YyxKW2B4H_bQLM1v_gPYBTO01wqMe4tNNqjdw9fsLPuf9QUr6FZ6KXSilyU&ad_v=1&ad_cj=YyxKW2Bqw0qAyjUdxLTcIkDpMWItByhDtpO7KNZNtKfx15o6Rx9veZlyvmy-l3sJ_DvQryhuRgunGFMxwiSWj_dok7tCYQKnsAad-KUrmXRPUOesRCZZnjcBLm6V-GMe3t_bSl7kzL5p-ueWEfNVeTnWAkvrfHZ-jV2wzx5Aceh2vKCD41o4_DpGdHq59CNxrd5T6frdNde5nTnDiCJlkfEqmGn3b5rcAXlcG5rn14ne&act=3",
+            "maintitle": "冬日温情",
+            "type": 4,
+            "monitorClickUrl": "",
+            "deputytitle": "优惠精选",
+            "id": 22949,
+            "title": "冬日温情",
+            "deputy_typeface_color": "#fc6a56",
+            "tplurl": "imeituan://www.meituan.com/web?url=https%3A%2F%2Fi.meituan.com%2Ffirework%2Fdrwq2%3Ftraffic_source%3DRB",
+            "clickUrl": "https://mlog.dianping.com/mtlog?sver=2&ad_ci=YyxKW2B4H_bQLM1v_gPYBTO01wqMe4tNNqjdw9fsLPuf9QUr6FZ6KXSilyU&ad_v=1&ad_cj=YyxKW2Bqw0qAyjUdxLTcIkDpMWItByhDtpO7KNZNtKfx15o6Rx9veZlyvmy-l3sJ_DvQryhuRgunGFMxwiSWj_dok7tCYQKnsAad-KUrmXRPUOesRCZZnjcBLm6V-GMe3t_bSl7kzL5p-ueWEfNVeTnWAkvrfHZ-jV2wzx5Aceh2vKCD41o4_DpGdHq59CNxrd5T6frdNde5nTnDiCJlkfEqmGn3b5rcAXlcG5rn14ne&act=2",
+            "imageurl": "http://p1.meituan.net/w.h/adunion/2eb39b4d33a0019574280e46faae6eee12802.jpg"
+        },
+        {
+            "typeface_color": "#06c1ae",
+            "position": 0,
+            "module": false,
+            "maintitle": "今日推荐",
+            "type": 1,
+            "deputytitle": "品质生活指南",
+            "solds": 0,
+            "id": 3282,
+            "share": {
+                "message": "吃喝玩乐全都有，尽在美团网！",
+                "url": "http://api.mobile.meituan.com/group/v1/re/p"
+            },
+            "title": "今日推荐",
+            "deputy_typeface_color": "#fdb32b",
+            "tplurl": "imeituan://www.meituan.com/recommend?url=http://api.mobile.meituan.com/group/v1/re/p",
+            "imageurl": "http://p0.meituan.net/w.h/feop/6d64f737de360f0fd90fe3cf68f30d4a41353.png"
+        }
+    ],
+    "server": {
+        "time": 1516725526
+    },
+    "paging": {
+        "count": 4
+    }
+}
